@@ -1,0 +1,8 @@
+# byte compiled
+*.swp
+__pycache__/
+*.py[cod]
+.Python
+*$py.class
+*.dll
+alev/
